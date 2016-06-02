@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="player_name">
+        <item>Stephen Curry</item>
+        <item>Klay Thompson</item>
+        <item>Andre Iguodala</item>
+        <item>Draymond Green</item>
+        <item>Andrew Bogut</item>
+    </string-array>
+
+    <array name="player_photo">
+        <item>@drawable/sc</item>
+        <item>@drawable/kt</item>
+        <item>@drawable/ai</item>
+        <item>@drawable/dg</item>
+        <item>@drawable/ab</item>
+    </array>
+
+    <integer-array name="player_num">
+        <item>30</item>
+        <item>11</item>
+        <item>9</item>
+        <item>23</item>
+        <item>12</item>
+    </integer-array>
+
+    <string-array name="player_pos">
+        <item>Guard</item>
+        <item>Guard</item>
+        <item>Guard-Forward</item>
+        <item>Forward</item>
+        <item>Center</item>
+    </string-array>
+</resources>
